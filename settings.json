@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "womp_123.aternos.me:56243",
+    "ip": "womp_123.aternos.me",
     "port": 56243,
     "version": "",
     "try-creative": false
